@@ -1,0 +1,102 @@
+{C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Memoria32
+
+Top level modules:
+	Memoria32
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module bancoReg
+
+Top level modules:
+	bancoReg
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module UC
+
+Top level modules:
+	UC
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd}
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Instr_Reg_RISC_V
+-- Compiling architecture behavioral_arch of Instr_Reg_RISC_V
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module sign_extended
+
+Top level modules:
+	sign_extended
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Memoria64
+
+Top level modules:
+	Memoria64
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd}
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Ula64
+-- Compiling architecture behavioral of Ula64
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Deslocamento
+
+Top level modules:
+	Deslocamento
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Unidade_Processamento
+
+Top level modules:
+	Unidade_Processamento
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v} {1 {vlog -work work -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ramOnChip64
+
+Top level modules:
+	ramOnChip64
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux2x64
+
+Top level modules:
+	mux2x64
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux4x64
+
+Top level modules:
+	mux4x64
+
+} {} {}} {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v} {1 {vlog -work work -stats=none {C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ramOnChip32
+
+Top level modules:
+	ramOnChip32
+
+} {} {}}
