@@ -1,0 +1,416 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vbancoReg
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1556672077
+!i10b 1
+!s100 Xh_m30ZJ=nPNCS=:6OGHS2
+IJ3F9MDC=^ZA9mg:R<5amL0
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 bancoReg_sv_unit
+S1
+Z3 dC:/Users/mandy/Documents/INFRA DE HARDWARE/Project
+Z4 w1556067490
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv
+L0 1
+Z5 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1556672077.351000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/bancoReg.sv|
+!i113 1
+Z6 o-work work -sv
+nbanco@reg
+vDeslocamento
+R0
+R1
+!i10b 1
+!s100 EMH`UB_G1bTeiVdfJ^^>l1
+I<R`XHh9:Bgi`PRV??KO[L2
+R2
+!s105 Deslocamento_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672077.454000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Deslocamento.sv|
+!i113 1
+R6
+n@deslocamento
+Einstr_reg_risc_v
+R4
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R3
+Z9 8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd
+Z10 FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd
+l0
+L49
+V86UmMLhZM>b1]c0NzPZ>h2
+!s100 HF;HEc4<o>]o3`Jjc=WPJ2
+Z11 OV;C;10.3d;59
+32
+R1
+!i10b 1
+Z12 !s108 1556672077.588000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd|
+Z14 !s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Instr_Reg_RISC_V.vhd|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1
+Abehavioral_arch
+R7
+R8
+DEx4 work 16 instr_reg_risc_v 0 22 86UmMLhZM>b1]c0NzPZ>h2
+l68
+L65
+VdGh>5D[bXYMDM<Xz0kQ1J0
+!s100 e?bWG@:SnkVC476;`5UQ[1
+R11
+32
+R1
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+vinstrucoesR
+R0
+!s110 1554561420
+!i10b 1
+!s100 `gXBVml<ahC9_7koMNYmA2
+I;WTQbPP[g7LN5Z89MW0mA2
+R2
+!s105 add_sv_unit
+S1
+Z17 dD:/Antonio/Desktop/italo/Project
+Z18 w1554480070
+8D:/Antonio/Desktop/italo/Project/Criados/add.sv
+FD:/Antonio/Desktop/italo/Project/Criados/add.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1554561420.101000
+!s107 D:/Antonio/Desktop/italo/Project/Criados/add.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Antonio/Desktop/italo/Project/Criados/add.sv|
+!i113 1
+R6
+ninstrucoes@r
+vMemoria32
+R0
+Z19 !s110 1556672078
+!i10b 1
+!s100 Q2gmKA>Pd1H;3=f[e^lb[3
+Id0?Eh=;M4YQIgmoIZPfI@0
+R2
+!s105 Memoria32_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv
+Z20 L0 26
+R5
+r1
+!s85 0
+31
+!s108 1556672078.117000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria32.sv|
+!i113 1
+R6
+n@memoria32
+vMemoria64
+R0
+R19
+!i10b 1
+!s100 1fz3Mgbi`W1QjWk]9CgUO3
+IEDTi7eGQBYghD:5`1z>2B2
+R2
+!s105 Memoria64_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv
+R20
+R5
+r1
+!s85 0
+31
+!s108 1556672078.291000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/Memoria64.sv|
+!i113 1
+R6
+n@memoria64
+vmux2x64
+R0
+Z21 !s110 1556672076
+!i10b 1
+!s100 g^MzQ5BBWLzX>oVibYeFS3
+IMOL<U58WhJ`cU3>_j13c70
+R2
+!s105 mux2x64_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672076.664000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux2x64.sv|
+!i113 1
+R6
+vmux4x64
+R0
+R21
+!i10b 1
+!s100 SHIV[A5QfI5caac?nKTI73
+IVZm55l`7>jOa6HSzoJYBb3
+R2
+!s105 mux4x64_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672076.771000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/mux4x64.sv|
+!i113 1
+R6
+vramOnChip32
+R19
+!i10b 1
+!s100 ?cVfgbFYaCB@4255f4cUf3
+I<>TeVmKf8R@P>A[V?76MJ2
+R2
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v
+Z22 L0 40
+R5
+r1
+!s85 0
+31
+!s108 1556672078.540000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip32.v|
+!i113 1
+Z23 o-work work
+nram@on@chip32
+vramOnChip64
+R19
+!i10b 1
+!s100 cocMaFKEzGMH4F3EWeV]X1
+I`3UN:>YaZ>INZ^WJ9Xm?42
+R2
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v
+R22
+R5
+r1
+!s85 0
+31
+!s108 1556672078.653000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ramOnChip64.v|
+!i113 1
+R23
+nram@on@chip64
+vregister
+R0
+R19
+!i10b 1
+!s100 9LJ9d_BI=_PEcTcfL?O8@1
+I0S6ki4EEaReM:[mod6E=?3
+R2
+!s105 register_sv_unit
+S1
+R3
+R4
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672078.763000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/register.sv|
+!i113 1
+R6
+vsign_extended
+R0
+R21
+!i10b 1
+!s100 _Z>ANAHg8NA4j[@]edEB03
+I`B1Z[Kddk<C89UEFO3UTF3
+R2
+!s105 sign_extended_sv_unit
+S1
+R3
+w1556490018
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672076.884000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/sign_extended.sv|
+!i113 1
+R6
+vUC
+R0
+R1
+!i10b 1
+!s100 V=W^CoGnz2oW1QFoSUb6i3
+Io92kzeRjTZcLg]ELAGg^h3
+R2
+!s105 UC_sv_unit
+S1
+R3
+w1556659150
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1556672077.013000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/UC.sv|
+!i113 1
+R6
+n@u@c
+Eula64
+R4
+Z24 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R7
+R8
+R3
+Z25 8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd
+Z26 FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd
+l0
+L54
+VkMXmJ1@TQ8ZGgzZFcFW]C1
+!s100 gXP0QOjWED7GdgGCHP44]0
+R11
+32
+R19
+!i10b 1
+Z27 !s108 1556672078.878000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd|
+Z29 !s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Modulos/ula64.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R24
+R7
+R8
+Z30 DEx4 work 5 ula64 0 22 kMXmJ1@TQ8ZGgzZFcFW]C1
+l80
+L70
+Z31 VdzHmm1VZ^BU]P`ZA0Q8dB3
+Z32 !s100 DoJmkJ?1Y9Zk;7@A7oGLb2
+R11
+32
+R19
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R15
+R16
+vUnidade_Processamento
+R0
+R1
+!i10b 1
+!s100 7TkCmD7;obLiJzN6AUgLE1
+IilFMom6O:QZW=gKGCMO>U1
+R2
+!s105 Unidade_Processamento_sv_unit
+S1
+R3
+w1556654873
+8C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv
+FC:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1556672077.195000
+!s107 C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mandy/Documents/INFRA DE HARDWARE/Project/Criados/Unidade_Processamento.sv|
+!i113 1
+R6
+n@unidade_@processamento
+vunidadeDeControle
+R0
+!s110 1554561421
+!i10b 1
+!s100 zhc9eLVJ9Wzl<@mZKmz8f2
+IfLobzi23Z5`;<[gi=>lzl2
+R2
+!s105 unidadeDeControle_sv_unit
+S1
+R17
+R18
+8D:/Antonio/Desktop/italo/Project/Criados/unidadeDeControle.sv
+FD:/Antonio/Desktop/italo/Project/Criados/unidadeDeControle.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1554561421.523000
+!s107 D:/Antonio/Desktop/italo/Project/Criados/unidadeDeControle.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Antonio/Desktop/italo/Project/Criados/unidadeDeControle.sv|
+!i113 1
+R6
+nunidade@de@controle
