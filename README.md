@@ -1,5 +1,5 @@
 # RISC-V
-This an implementation of assembly RISC-V using verilog
+This an implementation of assembly RISC-V using system verilog
 
 ## Infraestrutura de Hardware
 Projeto desenvolvido na cadeira `Infraestrutura de Hardware - CIn UFPE - 2019.1`
